@@ -55,4 +55,7 @@ to instantiate rotors. It is possible to plot its geometry, run simulations, and
 obtain results in the form of graphics, by performing Static analysis, Campbell Diagram,
 Frequency response, Forced response, and Mode Shapes.
 
+This is an example citation: @Pearson:2017
+Another example: [@Pearson:2017]
+
 # References

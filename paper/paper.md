@@ -55,7 +55,25 @@ to instantiate rotors. It is possible to plot its geometry, run simulations, and
 obtain results in the form of graphics, by performing Static analysis, Campbell Diagram,
 Frequency response, Forced response, and Mode Shapes.
 
-This is an example citation: @Pearson:2017
-Another example: [@Pearson:2017]
+This is an example citation: @Pina2006, @TribologySeries33,
+@Queiroz2018UFRJ, @Remond2011, @Ritto2011, @Mignolet2010,
+@KOROISHI2012, @Didier2012, @Timbo2019, @CAVALINI2015,
+@Peradotto2015, @Hunter, @Hutchinson2001, @Cowper1966,
+@Ishida, @Vance, @Friswell, @Timoshenko, @Inman,
+@API684, @API617, @Kocur, @Childs2014, @Childs2002,
+@Childs2004, @Childs1986, @Nelson1985, @Childs1983,
+@Hirs, @Black1970, @Black1969, @Baumann1999,
+@Kirk1988, @Benckert1980, @Wagner, @Cochrane, 
+@Childs1997, @Pragenau, @Alford, @Santiago2007-2,
+@Santiago2007-1, @Childs2009, @Delgado2011,
+@Dimond2011, @SanAndres2004, @Childs1994,
+@Muszysnka1990, @Muszysnka1988, @Adams1985,
+@Lee1989, @Parkins1979, @Warner1964, @Warner1963,
+@Lund1968, @Lund1964, @Lund1962, @Hagg1958,
+@Hagg1956, @Tiwari2004, @Stodola, @Hummel,
+@Newkirk1925, @Newkirk1924, @Reynolds,
+@Hamrock, @Prohl, @Nils, @Mayer, @Ludtke,
+@Giampaolo, @Hau, @Leyland, @Cohen, @Singh,
+@Bruce, @Falco, @Logan
 
 # References
